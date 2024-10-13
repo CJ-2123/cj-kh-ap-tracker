@@ -111,9 +111,9 @@ function Tracker() {
                   </td>
                 ))}
               </tr>
-              {rowIndex === 6 && (
+              {rowIndex === 7 && (
                 <tr>
-                  <td colSpan={6}>
+                  <td colSpan={7}>
                     <hr />
                   </td>{" "}
                 </tr>
