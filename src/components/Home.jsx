@@ -1,4 +1,5 @@
 import Tracker from "./Tracker.jsx";
+import Hitlist from "./Hitlist.jsx";
 
 function Home() {
   // Open popout window for item tracker
@@ -10,7 +11,15 @@ function Home() {
     );
   }
 
-  // Create checklist on left and tracker on right
+  function handleOpenPopoutHitlist() {
+    window.open(
+      "#/hitlist",
+      "_blank",
+      "toolbar=no,resizeable=yes,width=300,height=350"
+    );
+  }
+
+  // Create tracker
   return (
     <div>
       <div className="tracker">
@@ -18,6 +27,12 @@ function Home() {
         <div>
           <button className="popout-button" onClick={handleOpenPopout}>
             Popout Tracker
+          </button>
+        </div>
+        <Hitlist></Hitlist>
+        <div>
+          <button className="popout-button" onClick={handleOpenPopoutHitlist}>
+            Popout Hit List
           </button>
         </div>
       </div>
