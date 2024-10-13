@@ -25,4 +25,11 @@ KH2 Items
 - Summons (Chicken Little, Genie, Stitch, Peter Pan)
 - Hades Cup Trophy, Unknown Disk
 
+Hit List
+
+- KH1 Sephiroth, Unknown, Kurt Zisa, Phantom
+- Xemnas, Xigbar, Xaldin, Vexen, Lexaeus, Zexion, Saix
+- Axel, Demyx, Luxord, Marluxia, Larxene, Roxas, KH2 Sephiroth
+- Terra, All Drive Forms 7, Starry Hill, All Summons, A New Day is Dawning, Transport to Remembrance, Goddess of Fate Cup
+
 Credit to Televo for images: https://televo.github.io/kingdom-hearts-recollection/
